@@ -1,0 +1,23 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="943" measuredH="376" mockupW="624" mockupH="344">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TabBar" x="319" y="32" w="624" h="344" measuredW="182" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <selectedIndex>0</selectedIndex>
+        <text>Original%20Text%2C%20+%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="334" y="73" w="594" h="221" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3Chtml%3E%0A%09%3Ctest%3E%3C/test%3E%0A%09%3Cxyzzy%3E%0A%09%09%3Cdiv%3E%3C/div%3E%0A%09%3C/xyzzy%3E%0A%09%3Ca%20href%3D%22%23test%22%3Etest%20link%3C/a%3E%0A%3C/html%3E%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="589" y="317" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Step2-First_Expression%26bm%3BStep2-First_Expression.bmml%26bm%3BStep2-First_Expression.bmml%26bm%3BStep2-First_Expression.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22270%2C285%2C367%2C312%22%20href%3D%22Step2-First_Expression.bmml%22%20alt%3D%22Step2-First_Expression%22%20id%3D%227%22/%3E</map>
+        <text>Add%20Rule%20%3E%3E</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

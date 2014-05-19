@@ -1,0 +1,19 @@
+{
+	"originalText": "This is a test",
+	//Applied in order
+	"expressions":[
+		{
+			"name": "Match all a tags"
+			"options": {
+				"i": true,
+				"m": true,
+				"s": false,
+				"x": false,
+				"g": true
+			},
+			"regularExpression": "^\\foo$",
+			"action": "match", //matches, does not match, replace, replace non match,
+			"replacementText": ""
+		}
+	]
+}
